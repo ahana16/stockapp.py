@@ -1,6 +1,5 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("Stock Trading Dashboard for Observational Decision Making")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+    "An interactive web application to visualize and analyze stock market data and trends for decision making")
